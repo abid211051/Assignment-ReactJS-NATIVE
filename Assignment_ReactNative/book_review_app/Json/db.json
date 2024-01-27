@@ -1,0 +1,170 @@
+{
+  "books": [
+    {
+      "category": "Adventure",
+      "id":"Hobbit01",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/TheHobbit.jpg?alt=media&token=901fb766-b8f4-4889-95f0-216d57800038",
+      "publicationDate": "21 September 1937",
+      "country": "United Kingdom",
+      "description": "The Hobbit follows the journey of Bilbo Baggins, who is reluctantly swept into an epic quest to reclaim treasure guarded by the fearsome dragon Smaug."
+    },
+    {
+      "category": "Adventure",
+      "id":"Treasure02",
+      "name": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/Treasure_Island.png?alt=media&token=0acd96f0-6e47-4c34-8fe1-a0686aaf0533",
+      "publicationDate": "14 November 1883",
+      "country": "United Kingdom",
+      "description": "Treasure Island tells the tale of young Jim Hawkins as he embarks on a perilous treasure hunt marked by pirates, mutiny, and buried gold."
+    },
+    {
+      "category": "Adventure",
+      "id":"Cristo03",
+      "name": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/322px-Louis_Fran%C3%A7ais.jpg?alt=media&token=d8326f6b-bde9-449e-96df-d34b150172e5",
+      "publicationDate": "28 August 1844",
+      "country": "France",
+      "description": "The Count of Monte Cristo unfolds the story of Edmond Dantès, who seeks revenge against those who wronged him, weaving a tale of betrayal and redemption."
+    },
+    {
+      "category": "Horror",
+      "id":"Dracula04",
+      "name": "Dracula",
+      "author": "Bram Stoker",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/316px-Dracula.jpg?alt=media&token=3c5734d4-9be0-4a9d-8bc0-d9ff6f21b073",
+      "publicationDate": "26 May 1897",
+      "country": "United Kingdom",
+      "description": "Dracula, the classic Gothic novel, introduces Count Dracula's attempt to move from Transylvania to England to spread the undead curse and his battle with a group of people led by Professor Abraham Van Helsing."
+    },
+    {
+      "category": "Horror",
+      "id":"Frankenstein05",
+      "name": "Frankenstein",
+      "author": "Mary Shelley",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/270px-Frankenstein.jpg?alt=media&token=8034470e-691a-466d-92c8-6f984d28c696",
+      "publicationDate": "1 January 1818",
+      "country": "United Kingdom",
+      "description": "Frankenstein explores the consequences of scientific experimentation as Victor Frankenstein creates a creature, only to be horrified by the results and the tragic events that follow."
+    },
+    {
+      "category": "Horror",
+      "id":"Shining06",
+      "name": "The Shining",
+      "author": "Stephen King",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/318px-The_Shining_(1977).jpg?alt=media&token=d632adb9-079b-4dc0-b7da-d50fae6dff54",
+      "publicationDate": "28 January 1977",
+      "country": "United States",
+      "description": "The Shining delves into the terrifying events that occur when the Torrance family becomes the winter caretakers of the isolated Overlook Hotel, bringing out supernatural forces and psychological horror."
+    },
+    {
+      "category": "Fantasy",
+      "id":"Stone07",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/Harry_Potter_and_the_Philosopher's.jpg?alt=media&token=11b578dd-752f-41f1-b863-b3f303237f20",
+      "publicationDate": "26 June 1997",
+      "country": "United Kingdom",
+      "description": "Harry Potter and the Sorcerer's Stone introduces the world to a young wizard, Harry, as he discovers his magical heritage and begins his journey at Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "category": "Fantasy",
+      "id":"Wind08",
+      "name": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/TheNameoftheWind.jpg?alt=media&token=126452b4-1fbb-4990-92eb-99511c5e5fa1",
+      "publicationDate": "27 March 2007",
+      "country": "United States",
+      "description": "The Name of the Wind narrates the life story of Kvothe, a magically gifted young man, as he grows to become a legendary figure in a world filled with music, magic, and mystery."
+    },
+    {
+      "category": "Sci-Fi",
+      "id":"Crash09",
+      "name": "Snow Crash",
+      "author": "Neal Stephenson",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/Snowcrash.jpg?alt=media&token=8b50569f-864b-4b75-99af-4374ebdd791c",
+      "publicationDate": "June 1992",
+      "country": "United States",
+      "description": "Snow Crash is a cyberpunk novel that explores a near-future America where the Mafia delivers pizzas, information is a drug, and a computer virus threatens to take over human minds."
+    },
+    {
+      "category": "Historical",
+      "id":"Earth10",
+      "name": "The Pillars of the Earth",
+      "author": "Ken Follett",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/PillarsOfTheEarth.jpg?alt=media&token=75647c10-a779-48ab-b519-1c1b9291cf22",
+      "publicationDate": "1989",
+      "country": "United Kingdom",
+      "description": "The Pillars of the Earth tells the story of the building of a cathedral in the fictional town of Kingsbridge, intertwining the lives of various characters in a saga of ambition, love, and betrayal."
+    },
+    {
+      "category": "Historical",
+      "id":"See11",
+      "name": "All the Light We Cannot See",
+      "author": "Anthony Doerr",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/All_the_Light_We_Cannot_See.jpg?alt=media&token=5d3e5451-4b05-4dca-8f21-df56c526504c",
+      "publicationDate": "6 May 2014",
+      "country": "United States",
+      "description": "All the Light We Cannot See explores the lives of a blind French girl and a German boy whose paths cross during World War II, offering a poignant tale of survival, resilience, and humanity."
+    },
+    {
+      "category": "Historical",
+      "id":"Thief12",
+      "name": "The Book Thief",
+      "author": "Markus Zusak",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/The_Book_Thief.jpg?alt=media&token=021d9a69-dee7-4bd6-980e-0ea2dd440494",
+      "publicationDate": "14 September 2005",
+      "country": "Australia",
+      "description": "The Book Thief is narrated by Death and follows Liesel Meminger, a young girl living in Nazi Germany, as she steals books and shares them with others during a time of war."
+    },
+    {
+      "category": "Sci-Fi",
+      "id":"Dune13",
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/Dune-Frank_Herbert.jpg?alt=media&token=afbbcfd4-0d83-4567-b767-bc51e83df037",
+      "publicationDate": "June 1965",
+      "country": "United States",
+      "description": "Dune is a science fiction epic set in the distant future, exploring politics, religion, and ecology on the desert planet of Arrakis, the only source of the universe's most valuable substance."
+    },
+    {
+      "category": "Fantasy",
+      "id":"Lamora14",
+      "name": "The Lies of Locke Lamora",
+      "author": "Scott Lynch",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/Locke_Lamora.jpg?alt=media&token=19fd5d92-29ef-4417-bf35-e9ab01349a0a",
+      "publicationDate": "June 27, 2006",
+      "country": "United States",
+      "description": "The Lies of Locke Lamora is a fantasy novel that follows a group of skilled con artists known as the Gentlemen Bastards as they navigate the underworld of the city of Camorr, blending wit, humor, and intrigue."
+    },
+    {
+      "category": "Sci-Fi",
+      "id":"Game15",
+      "name": "Ender's Game",
+      "author": "Orson Scott Card",
+      "imageLink": "https://firebasestorage.googleapis.com/v0/b/book-review-rn.appspot.com/o/Ender's_game.jpg?alt=media&token=0779f7b1-ce0c-4232-87c2-9242c853f30a",
+      "publicationDate": "January 1985",
+      "country": "United States",
+      "description": "Ender's Game follows the story of a young boy, Ender Wiggin, recruited into a military training program to defend against an alien invasion, showcasing themes of leadership and morality."
+    }
+  ],
+  "reviews":[
+    {
+      "bookId":"Hobbit01",
+      "id":"review01",
+      "email":"test@gmail.com",
+      "rating":4,
+      "comment":"This story was really good. His journey was too hard."
+    },
+    {
+      "bookId":"Treasure02",
+      "id":"review02",
+      "email":"test2@gmail.com",
+      "rating":5,
+      "comment":"i loved the pirate character."
+    }
+  ]
+}

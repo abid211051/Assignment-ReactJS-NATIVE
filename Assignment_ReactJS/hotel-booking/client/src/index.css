@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+    width: 2px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #747171;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f0f0f0;
+}
+
+.rdrDefinedRangesWrapper {
+    display: none;
+}
+
+.rdrMonths {
+    width: 50%;
+}
+
+.rdrMonthsVertical {
+    width: 50%;
+
+}

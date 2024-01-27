@@ -1,0 +1,80 @@
+{
+    "accounts": [
+        {
+            "type": "Card",
+            "balance": 5000
+        }
+    ],
+    "categories": [
+        {
+            "title": "Income Categories",
+            "data": [
+                {
+                    "Id": 0,
+                    "category": "Awards"
+                },
+                {
+                    "Id": 1,
+                    "category": "Rental"
+                },
+                {
+                    "Id": 2,
+                    "category": "Salary"
+                },
+                {
+                    "Id": 3,
+                    "category": "Sale"
+                },
+                {
+                    "Id": 4,
+                    "category": "Lottery"
+                }
+            ]
+        },
+        {
+            "title": "Expense Categories",
+            "data": [
+                {
+                    "Id": 0,
+                    "category": "Shopping"
+                },
+                {
+                    "Id": 1,
+                    "category": "Education"
+                },
+                {
+                    "Id": 2,
+                    "category": "Bills"
+                },
+                {
+                    "Id": 3,
+                    "category": "Food"
+                },
+                {
+                    "Id": 4,
+                    "category": "Health"
+                },
+                {
+                    "Id": 5,
+                    "category": "Insurance"
+                }
+            ]
+        }
+    ],
+    "incomeExpense": [
+        {
+            "Id": 0,
+            "ammount": 5000,
+            "type": "income",
+            "category": "Awards",
+            "account": "Card"
+        },
+        {
+            "Id": 1,
+            "ammount": 200,
+            "type": "expense",
+            "category": "Bills",
+            "account": "Cash"
+        }
+    ]
+}

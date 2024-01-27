@@ -1,0 +1,150 @@
+{
+  "hoteldata": {
+    "rooms": [
+      {
+        "id": 0,
+        "type": "REGULAR",
+        "bed": "Queen",
+        "maxCapacity": 3,
+        "roomView": "Garden View",
+        "roomSize": "200 sm",
+        "price": 5220,
+        "homepic": "http://localhost:3001/assets/regular-room.jpg",
+        "modalpic": "http://localhost:3001/assets/regular-modal.jpg",
+        "amenities": [
+          "Flat screen TV",
+          "AC and heater",
+          "Attached Bathroom",
+          "Hot & Cold Water",
+          "Electric Kettle",
+          "Blanket",
+          "Chair",
+          "Intercom",
+          "Extra Pillows and Blankets",
+          "Hair dryer",
+          "Air conditioning"
+        ],
+        "description": "The Regular room at Hotel Error is the perfect option for guests seeking a comfortable and budget-friendly stay. The room features a cozy double bed, air conditioning, and a private bathroom with all necessary amenities. The view from the room is breathtaking and allows guests to enjoy the scenic beauty of the surroundings. The decor is tastefully done and creates a warm and welcoming ambiance. The room is well-maintained and cleaned daily to ensure a comfortable stay for guests. Overall, the Regular room at Hotel Error is an excellent choice for travelers looking for a comfortable stay at an affordable price."
+      },
+      {
+        "id": 1,
+        "type": "DELUXE",
+        "bed": "Queen",
+        "maxCapacity": 3,
+        "roomView": "Garden View",
+        "roomSize": "350 sm",
+        "price": 6320,
+        "homepic": "http://localhost:3001/assets/delux-room.jpg",
+        "modalpic": "http://localhost:3001/assets/delux-modal.jpg",
+        "amenities": [
+          "Housekeeping - daily",
+          "Packaged drinking water (1 bottle/room/day)",
+          "Air Conditioned",
+          "Flat screen TV",
+          "Attached Bathroom",
+          "Mini Fridge",
+          "Electric Kettle",
+          "Toiletries",
+          "Towel",
+          "Wi-Fi"
+        ],
+        "description": "The Deluxe room at Hotel Error is a luxurious retreat with stunning views of the surrounding Sea. The room is spacious and well-appointed with comfortable furnishings and modern amenities. The plush king-size bed is perfect for a good night's sleep, while the seating area provides a cozy spot to relax and unwind. The room features a large flat-screen TV, high-speed internet, and a well-stocked minibar. The bathroom is sleek and sophisticated, with premium toiletries and soft towels. The Deluxe room offers a serene and peaceful escape, ideal for couples or solo travelers looking for a luxurious experience in a tranquil setting."
+      },
+      {
+        "id": 2,
+        "type": "SUITE",
+        "bed": "King",
+        "maxCapacity": 4,
+        "roomView": "Garden View",
+        "roomSize": "400 sm",
+        "price": 13200,
+        "homepic": "http://localhost:3001/assets/suite-room.jpg",
+        "modalpic": "http://localhost:3001/assets/suite-modal.jpg",
+        "amenities": [
+          "Housekeeping - daily",
+          "Air Conditioned",
+          "Flat screen TV",
+          "Electric Kettle",
+          "Mini Fridge",
+          "Wi-Fi",
+          "Intercom",
+          "Beachfront",
+          "Complimentary in-room coffee or tea",
+          "Mini bar"
+        ],
+        "description": "The Suite room at Hotel Error is the perfect escape for those looking for a luxurious and comfortable stay. The room features a spacious king-sized bed with plush bedding and pillows, ensuring a restful night's sleep. The room also boasts a stunning view of the sea, allowing guests to wake up to the sound of the waves crashing against the shore. The modern and stylish decor throughout the room creates a relaxing and inviting atmosphere. Guests can also enjoy the convenience of a mini-fridge and coffee maker in the room. With its prime location and top-notch amenities, the Suite room is the ultimate destination for a memorable stay."
+      },
+      {
+        "id": 3,
+        "type": "PRESIDENT SUITE",
+        "bed": "King/Twin",
+        "maxCapacity": 6,
+        "roomView": "Garden View",
+        "roomSize": "400 sm",
+        "price": 18000,
+        "homepic": "http://localhost:3001/assets/president-room.jpg",
+        "modalpic": "http://localhost:3001/assets/president-modal.jpg",
+        "amenities": [
+          "Fridge",
+          "Housekeeping - (On Demand)",
+          "Air Conditioned",
+          "Blanket",
+          "Charging Point",
+          "Closet",
+          "Complimentary in-room coffee or tea",
+          "Mini bar",
+          "Flat screen TV",
+          "Swimming Pool",
+          "Meeting Room"
+        ],
+        "description": "Welcome to Hotel Error, where luxury meets comfort. The PRESIDENT Suite is the epitome of elegance and sophistication. This spacious room is perfect for those who appreciate the finer things in life. The room features a comfortable king-size bed with premium linens, a plush sofa for lounging, and a writing desk for those who need to catch up on work. The suite also boasts a private balcony with a breathtaking view of the ocean. The en-suite bathroom is equipped with a rain shower and luxurious toiletries. With its tasteful decor and impeccable amenities, the PRESIDENT Suite is the perfect retreat for a relaxing getaway."
+      }
+    ]
+  },
+  "bookings": [
+    {
+      "name": "Afnan",
+      "phone": "01766667777",
+      "checkin": "Mon Jan 15 2024 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "checkout": "Tue Jan 16 2024 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "paid": 10440,
+      "roomId": 0,
+      "id": 1
+    },
+    {
+      "name": "Pranto",
+      "phone": "01911112222",
+      "checkin": "Sat Jan 20 2024 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "checkout": "Sun Jan 21 2024 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "paid": 26400,
+      "roomId": 2,
+      "id": 2
+    },
+    {
+      "name": "Pranto",
+      "phone": "01911112222",
+      "checkin": "Sat Jan 13 2024 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "checkout": "Sat Jan 13 2024 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "paid": 18000,
+      "roomId": 3,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "email": "abid@gmail.com",
+      "password": "12345"
+    },
+    {
+      "email": "afnan@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "pranto@gmail.com",
+      "password": "12345",
+      "id": 2
+    }
+  ]
+}
